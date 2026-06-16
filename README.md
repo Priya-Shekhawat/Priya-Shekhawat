@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;Future+Software+Engineer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=WELCOME TO MY PROFILE&fontAlign=50&fontAlignY=40&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=WELCOME&fontAlign=50&fontAlignY=40&color=gradient"/>
 
 </div>
 
