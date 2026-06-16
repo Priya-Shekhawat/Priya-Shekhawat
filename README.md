@@ -22,7 +22,6 @@
 🌱 Improving Coding Skills Every Day
 
 🎯 Goal: Become a Software Engineer
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com)
 
 ---
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
@@ -112,6 +111,8 @@ Calculates BMI and health category using user inputs.
 
 <div align="center">
 <div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com)
+
 <img height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
 
