@@ -99,8 +99,7 @@ Calculates BMI and health category using user inputs.
 
 > "Success doesn't come from what you do occasionally. It comes from what you do consistently."
 > <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Priya%20Shekhawat&fontSize=50&animation=fadeIn" />
 
 
 ---
