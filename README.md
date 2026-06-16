@@ -11,16 +11,36 @@
 - 🌱 Exploring AI and Data Analytics
 - 🎯 Goal: Become a Software Engineer
 
-## 🛠 Skills
+## 💻 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+## 🏆 Achievements
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+🥇 Python Projects Completed  
+📊 Data Visualization Projects  
+🤖 Machine Learning Models Built  
+🚀 Active GitHub Contributor
+## 🌟 Featured Projects
+
+🚲 Bike Price Prediction  
+🏦 Loan Prediction System  
+❤️ Health Insurance Prediction  
+😊 Customer Satisfaction Analysis  
+🏧 ATM Management System  
+⚖️ BMI Calculator
+> "Every expert was once a beginner."
+> <div align="center">
+
+### Thanks for visiting my profile ❤️
+
+⭐ Don't forget to star my repositories!
+
+</div>
+
 
