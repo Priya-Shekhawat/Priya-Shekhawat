@@ -33,6 +33,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github,vscode,mysql" />
+</p>
 
 ---
 
@@ -77,6 +80,7 @@ Python-based ATM simulation project.
 
 ### ⚖️ BMI Calculator
 Calculates BMI and health category using user inputs.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark">
 
 ---
 
@@ -99,7 +103,7 @@ Calculates BMI and health category using user inputs.
 
 > "Success doesn't come from what you do occasionally. It comes from what you do consistently."
 > <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Priya%20Shekhawat&fontSize=50&animation=fadeIn" />
+
 
 
 ---
