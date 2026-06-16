@@ -98,6 +98,10 @@ Calculates BMI and health category using user inputs.
 ## 💡 Quote
 
 > "Success doesn't come from what you do occasionally. It comes from what you do consistently."
+> <p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</p>
+
 
 ---
 
@@ -111,7 +115,6 @@ Calculates BMI and health category using user inputs.
 
 <div align="center">
 <div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com)
 
 <img height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
