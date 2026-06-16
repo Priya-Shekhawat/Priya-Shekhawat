@@ -50,10 +50,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priya-Shekhawat)
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -81,7 +77,7 @@ Python-based ATM simulation project.
 
 ### ⚖️ BMI Calculator
 Calculates BMI and health category using user inputs.
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priya-Shekhawat&theme=github_dark">
 
 ---
 
