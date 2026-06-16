@@ -24,7 +24,7 @@
 🎯 Goal: Become a Software Engineer
 
 ---
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Priya-Shekhawat&color=blueviPolet)
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,24 +41,24 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priya-Shekhawat&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Priya-Shekhawat&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Shekhawat&layout=compact&theme=tokyonight)
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d3f1d8c-4a9f-43e6-85c4-f1fbd8c1c8e3.gif">
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priya-Shekhawat)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Priya-Shekhawat&theme=algolia)
 
 ---
 
