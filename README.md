@@ -46,6 +46,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d3f1d8c-4a9f-43e6-85c4-f1fbd8c1c8e3.gif">
 
 ---
 
