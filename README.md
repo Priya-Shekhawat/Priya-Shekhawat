@@ -22,6 +22,7 @@
 🌱 Improving Coding Skills Every Day
 
 🎯 Goal: Become a Software Engineer
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com)
 
 ---
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
