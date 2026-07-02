@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Priya Shekhawat
 
 <h3 align="center">
-💻 Python Developer • 📊 Data Science Enthusiast • 🤖 Machine Learning Learner
+💻 Python Developer • 🌱 Continuous Learner • 🚀 Aspiring Software Engineer
 </h3>
 
 <p align="center">
@@ -25,8 +25,6 @@
 🤖 Exploring Artificial Intelligence
 
 🌍 Building Real-World Projects
-
-📈 Interested in Data Analytics
 
 🚀 Goal: Become a Software Engineer
 
@@ -76,7 +74,6 @@ An intelligent Machine Learning web application that recommends the **Top 3 Tour
 
 🎨 CSS
 
-🅱 Bootstrap
 
 ---
 
@@ -160,8 +157,7 @@ An intelligent Machine Learning web application that recommends the **Top 3 Tour
 
 </p>
 
-> ⚠️ Replace `Priya-Shekhawat` with your GitHub username.  
-> You must enable the GitHub Action to generate the snake animation.
+
 
 ---
 
@@ -189,41 +185,10 @@ An intelligent Machine Learning web application that recommends the **Top 3 Tour
 
 ✔ Advanced Python
 
+--
 ---
 
-# 🎯 Goals for 2026
 
-✅ Master Python
-
-✅ Learn Machine Learning
-
-✅ Learn Deep Learning Basics
-
-✅ Build 10+ Real-World Projects
-
-✅ Contribute to Open Source
-
-✅ Improve DSA Skills
-
-✅ Get a Software Engineering Internship
-
-✅ Participate in Hackathons
-
----
-
-# 🏅 Certifications
-
-📜 Python Programming
-
-📜 Data Science with Python
-
-📜 Machine Learning Fundamentals
-
-📜 SQL for Data Analysis
-
-📜 Git & GitHub
-
-*(Add certificate links after completing them.)*
 
 ---
 
@@ -241,7 +206,7 @@ or
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/priya-shekhawat-5a936b40a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -249,7 +214,7 @@ or
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:shekhawatpriya89@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
