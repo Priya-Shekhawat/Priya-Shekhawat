@@ -152,9 +152,7 @@ An intelligent Machine Learning web application that recommends the **Top 3 Tour
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Priya-Shekhawat/Priya-Shekhawat/output/github-contribution-grid-snake.svg">
-
+  <img src="https://raw.githubusercontent.com/Priya-Shekhawat/Priya-Shekhawat/output/github-contribution-grid-snake.svg">
 </p>
 
 
