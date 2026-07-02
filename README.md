@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Priya Shekhawat</h1>
+# 👋 Hi, I'm Priya Shekhawat
 
 <h3 align="center">
-💻 Python Developer • 📊 Data Science Enthusiast • 🤖 ML Learner
+💻 Python Developer • 📊 Data Science Enthusiast • 🤖 Machine Learning Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub!;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;Building+AI+Projects;Future+Software+Engineer🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;AI+%26+Data+Science+Explorer;Future+Software+Engineer🚀"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Welcome%20To%20My%20GitHub&fontSize=45"/>
+</p>
 
 ---
 
@@ -16,17 +18,65 @@
 
 🎓 B.Tech (3rd Year) Student
 
-💻 Passionate about Python Development
+💻 Passionate Python Developer
 
-📊 Exploring Data Science & Machine Learning
+📊 Learning Data Science & Machine Learning
 
-🤖 Building AI-powered Applications
+🤖 Exploring Artificial Intelligence
+
+🌍 Building Real-World Projects
 
 📈 Interested in Data Analytics
 
 🚀 Goal: Become a Software Engineer
 
-🌱 Learning something new every day
+🌱 Learning Something New Every Day
+
+---
+
+# 🚀 My Featured Project
+
+## 🌍 AI Tourism Recommendation System ⭐
+
+### 🎯 Top 3 Tourist Destination Recommendation
+
+An intelligent Machine Learning web application that recommends the **Top 3 Tourist Destinations** according to user preferences.
+
+### 🔥 Features
+
+✅ Predicts Top 3 Destinations
+
+✅ Budget Based Recommendation
+
+✅ Season Wise Prediction
+
+✅ Climate Preference
+
+✅ Travel Type Selection
+
+✅ Duration Based Recommendation
+
+✅ Transport Preference
+
+✅ Beautiful Flask Website
+
+### 🛠 Technologies Used
+
+🐍 Python
+
+🌐 Flask
+
+📊 Pandas
+
+🔢 NumPy
+
+🤖 Scikit-Learn
+
+🎨 HTML
+
+🎨 CSS
+
+🅱 Bootstrap
 
 ---
 
@@ -34,7 +84,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,html,css"/>
 
 </p>
 
@@ -44,71 +94,33 @@
 
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn">
+
 <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn">
-
-<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask">
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📂 Other Projects
 
-## 🌍 AI Tourism Recommendation System ⭐
+🚲 Bike Price Prediction
 
-### Top 3 Tourist Destination Recommendation
+🏦 Loan Prediction System
 
-✔ Machine Learning Model
+❤️ Health Insurance Cost Prediction
 
-✔ Flask Web Application
+😊 Customer Satisfaction Analysis
 
-✔ Predicts Top 3 Destinations
+🏧 ATM Management System
 
-✔ Personalized Recommendation
-
-✔ User Friendly Interface
-
-**Tech Used**
-
-Python • Flask • Pandas • NumPy • Scikit-learn • HTML • CSS • Bootstrap
+⚖️ BMI Calculator
 
 ---
 
-## 🚲 Bike Price Prediction
-
-Machine Learning model for predicting used bike prices.
-
----
-
-## 🏦 Loan Prediction
-
-Predicts loan approval using customer information.
-
----
-
-## ❤️ Health Insurance Cost Prediction
-
-Predicts insurance charges using ML algorithms.
-
----
-
-## 😊 Customer Satisfaction Analysis
-
-Analyzes customer feedback using Data Analytics.
-
----
-
-## ⚖️ BMI Calculator
-
-Python GUI project for BMI calculation.
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -118,19 +130,13 @@ Python GUI project for BMI calculation.
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Priya-Shekhawat&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priya-Shekhawat&theme=tokyonight&column=4"/>
 
 </p>
 
@@ -146,33 +152,96 @@ Python GUI project for BMI calculation.
 
 ---
 
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Priya-Shekhawat/Priya-Shekhawat/output/github-contribution-grid-snake.svg">
+
+</p>
+
+> ⚠️ Replace `Priya-Shekhawat` with your GitHub username.  
+> You must enable the GitHub Action to generate the snake animation.
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priya-Shekhawat&theme=algolia&column=4"/>
+
+</p>
+
+---
+
 # 📚 Currently Learning
 
 ✔ Machine Learning
 
 ✔ Data Science
 
-✔ Flask
-
 ✔ Artificial Intelligence
+
+✔ Flask
 
 ✔ SQL
 
-✔ Python Advanced
+✔ Advanced Python
 
 ---
 
-# 💡 Quote
+# 🎯 Goals for 2026
 
-> **"Learning never exhausts the mind. Every line of code makes you a better developer."** 🚀
+✅ Master Python
+
+✅ Learn Machine Learning
+
+✅ Learn Deep Learning Basics
+
+✅ Build 10+ Real-World Projects
+
+✅ Contribute to Open Source
+
+✅ Improve DSA Skills
+
+✅ Get a Software Engineering Internship
+
+✅ Participate in Hackathons
 
 ---
 
-# 🌐 Connect With Me
+# 🏅 Certifications
+
+📜 Python Programming
+
+📜 Data Science with Python
+
+📜 Machine Learning Fundamentals
+
+📜 SQL for Data Analysis
+
+📜 Git & GitHub
+
+*(Add certificate links after completing them.)*
+
+---
+
+# 🌐 Portfolio
+
+🚧 **Portfolio Website Coming Soon...**
+
+or
+
+🌐 https://yourportfolio.com
+
+---
+
+# 📬 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -180,26 +249,40 @@ Python GUI project for BMI calculation.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+# 💡 Quote
+
+> **"Success is built one line of code at a time."** 🚀
 
 ---
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
 
 </p>
 
-<h3 align="center">
+<h2 align="center">
 
 ⭐ Thanks for Visiting My Profile ⭐
 
+</h2>
+
+<h3 align="center">
+
+🚀 Keep Learning • Keep Building • Keep Growing
+
 </h3>
 
-<h4 align="center">
+<p align="center">
 
-🚀 Learn • Build • Improve • Repeat
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
 
-</h4>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+</p>
