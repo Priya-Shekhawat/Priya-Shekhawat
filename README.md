@@ -1,131 +1,205 @@
+<h1 align="center">Hi 👋, I'm Priya Shekhawat</h1>
 
-# 👋 Hi, I'm Priya Shekhawat
+<h3 align="center">
+💻 Python Developer • 📊 Data Science Enthusiast • 🤖 ML Learner
+</h3>
 
-### 💻 Python Developer | 📊 Data Science Enthusiast | 🤖 Machine Learning Learner
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;Future+Software+Engineer" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=WELCOME&fontAlign=50&fontAlignY=40&color=gradient"/>
-
-</div>
-
----
-
-## 🚀 About Me
-
-🎓 BTech Engineering Student
-
-💻 Learning Python, Data Science & Machine Learning
-
-📈 Interested in Data Analytics and AI
-
-🌱 Improving Coding Skills Every Day
-
-🎯 Goal: Become a Software Engineer
-
----
-![](https://komarev.com/ghpvc/?username=Priya-Shekhawat&color=blueviPolet)
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github,vscode,mysql" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub!;Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;Building+AI+Projects;Future+Software+Engineer🚀"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header"/>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 B.Tech (3rd Year) Student
+
+💻 Passionate about Python Development
+
+📊 Exploring Data Science & Machine Learning
+
+🤖 Building AI-powered Applications
+
+📈 Interested in Data Analytics
+
+🚀 Goal: Become a Software Engineer
+
+🌱 Learning something new every day
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Seaborn-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn">
+
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask">
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priya-Shekhawat&show_icons=true&theme=tokyonight)
+## 🌍 AI Tourism Recommendation System ⭐
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Priya-Shekhawat&theme=tokyonight)
+### Top 3 Tourist Destination Recommendation
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Shekhawat&layout=compact&theme=tokyonight)
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d3f1d8c-4a9f-43e6-85c4-f1fbd8c1c8e3.gif">
+✔ Machine Learning Model
 
----
+✔ Flask Web Application
 
----
+✔ Predicts Top 3 Destinations
 
-## 🏆 GitHub Trophies
+✔ Personalized Recommendation
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Priya-Shekhawat&theme=algolia)
+✔ User Friendly Interface
 
----
+**Tech Used**
 
-## 🌟 Featured Projects
-
-### 🚲 Bike Price Prediction
-Predicts used bike prices using Machine Learning.
-
-### 🏦 Loan Prediction System
-Predicts loan approval based on customer details.
-
-### ❤️ Health Insurance Prediction
-Predicts insurance charges using ML models.
-
-### 😊 Customer Satisfaction Analysis
-Analyzes customer feedback and satisfaction trends.
-
-### 🏧 ATM Management System
-Python-based ATM simulation project.
-
-### ⚖️ BMI Calculator
-Calculates BMI and health category using user inputs.
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priya-Shekhawat&theme=github_dark">
+Python • Flask • Pandas • NumPy • Scikit-learn • HTML • CSS • Bootstrap
 
 ---
 
-## 📚 Currently Learning
+## 🚲 Bike Price Prediction
 
-🔹 Machine Learning
-
-🔹 Data Visualization
-
-🔹 Data Analysis
-
-🔹 Python Advanced Concepts
-
-🔹 AI Fundamentals
+Machine Learning model for predicting used bike prices.
 
 ---
 
+## 🏦 Loan Prediction
 
-## 💡 Quote
-
-> "Success doesn't come from what you do occasionally. It comes from what you do consistently."
-> <p align="center">
-
-
+Predicts loan approval using customer information.
 
 ---
 
-## 🌐 Connect With Me
+## ❤️ Health Insurance Cost Prediction
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+Predicts insurance charges using ML algorithms.
 
 ---
 
-<div align="center">
-<div align="center">
+## 😊 Customer Satisfaction Analysis
 
-<img height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-</div>
+Analyzes customer feedback using Data Analytics.
 
-### ⭐ Thanks for Visiting My Profile ⭐
+---
 
-🚀 Keep Learning • Keep Building • Keep Growing
+## ⚖️ BMI Calculator
 
-</div>
+Python GUI project for BMI calculation.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+---
 
+# 📊 GitHub Analytics
 
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priya-Shekhawat&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Shekhawat&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Priya-Shekhawat&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priya-Shekhawat&theme=tokyonight&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya-Shekhawat&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+✔ Machine Learning
+
+✔ Data Science
+
+✔ Flask
+
+✔ Artificial Intelligence
+
+✔ SQL
+
+✔ Python Advanced
+
+---
+
+# 💡 Quote
+
+> **"Learning never exhausts the mind. Every line of code makes you a better developer."** 🚀
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Priya-Shekhawat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for Visiting My Profile ⭐
+
+</h3>
+
+<h4 align="center">
+
+🚀 Learn • Build • Improve • Repeat
+
+</h4>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
